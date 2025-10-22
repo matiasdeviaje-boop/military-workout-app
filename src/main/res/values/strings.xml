@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Military Workout</string>
+    <string name="app_description">Entrenamiento de Tren Superior - Estilo Militar</string>
+    
+    <!-- Navegación -->
+    <string name="home">Inicio</string>
+    <string name="today_workout">Entrenamiento de Hoy</string>
+    <string name="progress">Progreso</string>
+    <string name="settings">Configuración</string>
+    
+    <!-- Entrenamientos -->
+    <string name="start_workout">Iniciar Entrenamiento</string>
+    <string name="complete_workout">Completar Entrenamiento</string>
+    <string name="skip_workout">Saltar Entrenamiento</string>
+    <string name="no_workout_today">No hay entrenamiento programado para hoy</string>
+    <string name="generate_workout">Generar Entrenamiento</string>
+    
+    <!-- Ejercicios -->
+    <string name="exercise">Ejercicio</string>
+    <string name="exercises">Ejercicios</string>
+    <string name="variant">Variante</string>
+    <string name="difficulty">Dificultad</string>
+    <string name="reps">Repeticiones</string>
+    <string name="sets">Series</string>
+    <string name="rest_time">Tiempo de Descanso</string>
+    <string name="seconds">segundos</string>
+    
+    <!-- Niveles -->
+    <string name="intermediate">Intermedio</string>
+    <string name="advanced">Avanzado</string>
+    <string name="master">Maestro</string>
+    <string name="elite">Élite</string>
+    
+    <!-- Progreso -->
+    <string name="progress_stats">Estadísticas de Progreso</string>
+    <string name="total_workouts">Total de Entrenamientos</string>
+    <string name="completed_workouts">Entrenamientos Completados</string>
+    <string name="completion_rate">Tasa de Completación</string>
+    <string name="last_workout">Último Entrenamiento</string>
+    <string name="generate_report">Generar Reporte</string>
+    <string name="export_pdf">Exportar PDF</string>
+    
+    <!-- Acciones -->
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="close">Cerrar</string>
+    <string name="back">Atrás</string>
+    
+    <!-- Mensajes -->
+    <string name="success">Éxito</string>
+    <string name="error">Error</string>
+    <string name="warning">Advertencia</string>
+    <string name="loading">Cargando...</string>
+    <string name="no_data">Sin datos</string>
+</resources>
+
